@@ -1,5 +1,10 @@
 from abc import ABC, abstractmethod
-from src.lab01.validate import (
+import sys
+import os
+
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from lab01.validate import (
     validate_price,
     validate_price_month,
     validate_address,
