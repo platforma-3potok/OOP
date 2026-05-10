@@ -29,3 +29,13 @@ Cтудент группы БИВТ-25-8 Ищейкин Кирилл Алекс�
 [collection](src/lab04/collection.py)
 
 [demo](src/lab04/demo.py)
+
+## Лабораторная работа №5
+
+[README](src/lab05/README.md)
+
+[strategies](src/lab05/strategies.py)
+
+[collection](src/lab05/collection.py)
+
+[demo](src/lab05/demo.py)
