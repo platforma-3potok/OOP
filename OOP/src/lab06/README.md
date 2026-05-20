@@ -65,6 +65,7 @@ S = TypeVar('S', bound=Scorable)
 - фильтрация квартир дороже 6 млн (filter)
 - преобразование в адреса (map -> list[str])
 - преобразование в цену в млн (map -> list[float])
+
 ![alt text](<../../images/lab06/image copy.png>)
 
 ### Сценарий 3: Protocols
