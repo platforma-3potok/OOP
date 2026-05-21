@@ -1,0 +1,23 @@
+[
+    {
+        "price": 30000000,
+        "price_month": 34000,
+        "address": "Weekend 23",
+        "square": 355,
+        "available": true
+    },
+    {
+        "price": 1200000,
+        "price_month": 12000,
+        "address": "Ищейкина 13",
+        "square": 700,
+        "available": true
+    },
+    {
+        "price": 230000,
+        "price_month": 2300,
+        "address": "QWERT222",
+        "square": 34,
+        "available": true
+    }
+]
